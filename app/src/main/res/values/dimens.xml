@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginLeft_buttonPrevious">50sp</dimen>
+    <dimen name="marginLeft_buttonForward">90sp</dimen>
+</resources>
